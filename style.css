@@ -62,5 +62,8 @@ text-align:right;
   margin-right:6px;
 }
 .o{
-margin:50px;
+float:left;
+}
+.v{
+float:center;
 }
