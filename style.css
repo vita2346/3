@@ -46,7 +46,7 @@ img{
 /* Rectangle 2 */
 
 box-sizing: border-box;
-margin-right:220px;
+margin-right:215px;
 
   widht:240px;
   height:360px;
@@ -66,6 +66,6 @@ float:left;
 }
 .v{
 float:right;
-margin-right:90px;
+margin-right:100px;
 }
 
